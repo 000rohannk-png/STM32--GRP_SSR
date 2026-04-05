@@ -1,7 +1,7 @@
 #include <Wire.h>
 #include <U8g2lib.h>
 #include <DHT.h>
-
+//jai baba
 #define PIR_PIN PB0
 #define LED_PIN PB1
 #define DHTPIN PA0
